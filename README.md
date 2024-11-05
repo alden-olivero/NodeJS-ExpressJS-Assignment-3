@@ -32,28 +32,28 @@
     "originalUrl": "https://www.example.com"
   }
   ```
-  ![](outputImages\2.png)
+![temp](.\outputImages\2.png)
 
 ### Get All URL Details
 
 - **GET** `/api/v1/urls`
-![](outputImages\1.png)
+![temp](.\outputImages\1.png)
 ### Get URL by Short Code
 
 - **GET** `/api/v1/urls/:shortUrlCode`
-![](outputImages\3.png)
+![temp](.\outputImages\3.png)
 ### Update URL
 
 - **PUT** `/api/v1/urls/:shortUrlCode`
-  ![](outputImages\4.png)
+  ![temp](.\outputImages\4.png)
 
 
 ### Delete URL
 
 - **DELETE** `/api/v1/urls/:shortUrlCode`
-![](outputImages\5.png)
+![temp](.\outputImages\5.png)
 ### Redirect
 
 - **GET** `/api/v1/urls/redirect/:shortUrlCode`
-![](outputImages\6.png)
-![](outputImages\7.png)
+![temp](.\outputImages\6.png)
+![temp](.\outputImages\7.png)
